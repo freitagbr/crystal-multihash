@@ -1,5 +1,7 @@
-require "./multihash/*"
+require "./varint"
 
-module Multihash
-  # TODO Put your code here
+include VarInt
+
+module multihash
+    # TODO
 end
