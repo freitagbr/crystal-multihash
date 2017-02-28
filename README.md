@@ -35,3 +35,5 @@ TODO: Write development instructions here
 ## Contributors
 
 - [freitagbr](https://github.com/freitagbr) Brandon Freitag - creator, maintainer
+- [IvantheDugtrio](https://github.com/IvantheDugtrio) Ivan De Dios - guy who tests things
+- [nfischer](https://github.com/nfischer) Nate Fischer - creator, maintainer
