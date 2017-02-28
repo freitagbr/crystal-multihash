@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   multihash:
-    github: [your-github-name]/multihash
+    github: freitagbr/multihash
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/multihash/fork )
+1. Fork it ( https://github.com/freitagbr/multihash/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Brandon Freitag - creator, maintainer
+- [freitagbr](https://github.com/freitagbr) Brandon Freitag - creator, maintainer
