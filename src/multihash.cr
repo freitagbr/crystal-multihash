@@ -1,6 +1,4 @@
-require "./varint"
-
-include VarInt
+require "uvarint"
 
 module multihash
     # TODO

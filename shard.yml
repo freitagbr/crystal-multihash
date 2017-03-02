@@ -7,3 +7,7 @@ authors:
 crystal: 0.21.0
 
 license: MIT
+
+dependencies:
+  uvarint:
+    github: freitagbr/crystal-uvarint
