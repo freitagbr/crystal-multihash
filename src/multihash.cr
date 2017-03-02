@@ -1,5 +1,5 @@
 require "uvarint"
 
 module multihash
-    # TODO
+  # TODO
 end
