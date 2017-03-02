@@ -1,4 +1,4 @@
-# cr-multihash
+# crystal-multihash
 
 TODO: Write a description here
 
@@ -8,14 +8,14 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  cr-multihash:
-    github: freitagbr/cr-multihash
+  multihash:
+    github: freitagbr/crystal-multihash
 ```
 
 ## Usage
 
 ```crystal
-require "cr-multihash"
+require "multihash"
 ```
 
 TODO: Write usage instructions here
@@ -26,7 +26,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/freitagbr/cr-multihash/fork )
+1. Fork it ( https://github.com/freitagbr/crystal-multihash/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
