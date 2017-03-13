@@ -1,5 +1,7 @@
 # crystal-multihash
 
+[![](https://img.shields.io/badge/project-multiformats-blue.svg?style=flat-square)](https://github.com/multiformats/multiformats)
+
 TODO: Write a description here
 
 ## Installation
